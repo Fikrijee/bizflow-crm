@@ -2,17 +2,17 @@
 
 A full-stack Customer Relationship Management app with a built-in AI sales assistant. It covers the daily workflow of a sales team: contacts, companies, leads, deals, a drag-and-drop pipeline, tasks, activity history, field visits and reports.
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](docs/Dashboard.png)
 
 ## Screenshots
 
 | Pipeline | AI Assistant |
 |---|---|
-| ![Pipeline](docs/pipeline.png) | ![AI Assistant](docs/ai.png) |
+| ![Pipeline](docs/Pipeline.png) | ![AI Assistant](docs/Ai.png) |
 
-| Contacts | Reports |
+|  Reports |
 |---|---|
-| ![Contacts](docs/contacts.png) | ![Reports](docs/reports.png) |
+| ![Reports](docs/Reports.png) |
 
 ## Features
 
